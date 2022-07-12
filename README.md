@@ -1,10 +1,12 @@
-# Manifest for GloDroid
+Welcome to JupiterOS, an ultra lightweight AOSP android based operating system.
 
-Free and opensource AOSP based Android for the world's most accessible development platforms.  
+Based on the work done by GloDroid, this rom includes hardware acceleration for the mali-400mp2 gpu found in the PinePhone, additionally
+compiled to make use of ARM NEON SSE instruction sets, bundled with high performance CPU governor with overclock capabilities.
 
-This version is based on Android master branch as of 20 Apr 2022
+This version is based on Android AOSP master branch as of 20 Apr 2022
 
 ## Supported devices:
+
 ### Rockchip platform:
 - PinephonePro
 ### SUNXI platform:
